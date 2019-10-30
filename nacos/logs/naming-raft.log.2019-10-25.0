@@ -1,0 +1,60 @@
+2019-10-25 17:36:51,023 INFO initializing Raft sub-system
+
+2019-10-25 17:36:51,024 INFO raft notifier started
+
+2019-10-25 17:36:51,025 INFO finish loading all datums, size: 0 cost 2 ms.
+
+2019-10-25 17:36:51,027 INFO cache loaded, datum count: 0, current term: 0
+
+2019-10-25 17:36:51,027 INFO finish to load data from disk, cost: 4 ms.
+
+2019-10-25 17:36:51,029 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2019-10-25 17:36:50,944 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2019-10-25 17:36:51,035 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-10-25 17:36:51,073 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2019-10-25 17:36:52,540 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2019-10-25 17:36:55,940 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-10-25 17:36:55,940 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-10-25 17:36:55,940 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-10-25 17:36:58,945 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-10-25 18:19:03,465 INFO initializing Raft sub-system
+
+2019-10-25 18:19:03,465 INFO raft notifier started
+
+2019-10-25 18:19:03,465 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2019-10-25 18:19:03,466 INFO cache loaded, datum count: 0, current term: 0
+
+2019-10-25 18:19:03,466 INFO finish to load data from disk, cost: 1 ms.
+
+2019-10-25 18:19:03,469 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2019-10-25 18:19:03,395 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2019-10-25 18:19:03,474 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-10-25 18:19:03,511 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2019-10-25 18:19:04,812 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2019-10-25 18:19:08,392 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-10-25 18:19:08,392 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-10-25 18:19:08,392 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-10-25 18:19:11,397 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-10-25 18:27:20,943 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-provider
+
+2019-10-25 18:29:25,731 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-consumer
+

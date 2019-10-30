@@ -1,0 +1,42 @@
+2019-10-25 18:27:20,996 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8762:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-10-25 18:27:20,998 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.56.1:8762_true,
+
+2019-10-25 18:27:28,374 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8763:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-10-25 18:27:28,374 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.56.1:8763_true,192.168.56.1:8762_true,
+
+2019-10-25 18:29:25,732 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8763:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-10-25 18:29:25,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.56.1:8763_true,
+
+2019-10-25 18:29:35,974 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8763@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1571999356920
+
+2019-10-25 18:29:51,056 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8763:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-10-25 18:29:51,056 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.56.1:8762_true,
+
+2019-10-25 18:44:28,105 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.56.1:8763_true,
+
+2019-10-25 18:44:29,532 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.56.1:8762_true,
+
+2019-10-25 18:47:10,958 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8763@DEFAULT@DEFAULT_GROUP@@nacos-consumer, region: unknown, msg: client timeout after 15000, last beat: 1572000411602
+
+2019-10-25 18:47:25,963 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8763:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-10-25 18:47:25,963 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 
+
+2019-10-25 18:56:24,393 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8763:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-10-25 18:56:24,393 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.56.1:8763_true,
+
+2019-10-25 18:57:12,856 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.56.1:8762_true,
+
+2019-10-25 18:57:40,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.56.1:8762_true,
+
+2019-10-25 18:58:33,707 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.56.1:8763_true,
+
+2019-10-25 19:00:34,500 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.56.1:8763_true,
+
+2019-10-25 19:10:14,166 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.56.1:8763_true,
+
